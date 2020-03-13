@@ -1,0 +1,11 @@
+﻿  DayProgram.cpp
+D:\Projects\TV-program_EKZAMEN\TV-program\DayProgram.cpp(48,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Projects\TV-program_EKZAMEN\TV-program\DayProgram.cpp(50,25): warning C4018:  '<': signed/unsigned mismatch
+D:\Projects\TV-program_EKZAMEN\TV-program\DayProgram.cpp(65,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Projects\TV-program_EKZAMEN\TV-program\DayProgram.cpp(67,25): warning C4018:  '<': signed/unsigned mismatch
+D:\Projects\TV-program_EKZAMEN\TV-program\DayProgram.cpp(81,20): warning C4018:  '<': signed/unsigned mismatch
+  Education.cpp
+  Generating Code...
+D:\Projects\TV-program_EKZAMEN\TV-program\DayProgram.cpp(93,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Projects\TV-program_EKZAMEN\TV-program\DayProgram.cpp(93,20): warning C4018: D:\Projects\TV-program_EKZAMEN\TV-program\DayProgram.cpp(89) : warning C4715: 'DayProgram::findByName': not all control paths return a value
+  TV-program.vcxproj -> D:\Projects\TV-program_EKZAMEN\Debug\TV-program.exe
